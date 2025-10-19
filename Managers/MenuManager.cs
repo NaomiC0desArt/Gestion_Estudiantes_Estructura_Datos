@@ -403,9 +403,6 @@ namespace Gestion_de_estudiantes.Managers
             Console.Write("Matrícula: ");
             string matricula = Console.ReadLine();
 
-            Console.Write("Plataforma Virtual: ");
-            string plataforma = Console.ReadLine();
-
             Console.Write("Email: ");
             string email = Console.ReadLine();
 
